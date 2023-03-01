@@ -2,12 +2,12 @@ import { Emotion } from "@emotion/css/types/create-instance";
 import React from "react";
 
 export interface WrapperProps {
-    children?: React.ReactNode;
+    children: React.ReactNode;
 }
 
 export interface MainTitleProps {
     firstLine: string;
-    secondLine: string
+    secondLine: string;
 }
 
 export interface BookProps {
