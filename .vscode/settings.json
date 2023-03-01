@@ -1,0 +1,17 @@
+{
+    "previewServer.port": 3000,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.exclude": {
+        "**/.classpath": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "npm.keybindingsChangedWarningShown": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
